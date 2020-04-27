@@ -18,4 +18,4 @@ Pattern has been implemented using 3 ways.
 2.Eagerly Initialized Singleton.
 3.Double Checked Locking Singleton.
 
-Note --> 'Example Taken From Book HEAD First Design Pattern'
+Note --> 'Example Taken From The book HEAD First Design Patterns'
