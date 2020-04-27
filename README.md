@@ -17,3 +17,5 @@ Pattern has been implemented using 3 ways.
 1.Lazily Initialized Singleton.
 2.Eagerly Initialized Singleton.
 3.Double Checked Locking Singleton.
+
+Note --> 'Example Taken From Book HEAD First Design Pattern'
